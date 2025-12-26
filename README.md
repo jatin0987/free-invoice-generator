@@ -12,12 +12,12 @@ Key Features
 - Free billing software for all
 
 Create Your Invoice Now
-👉 [Click here to create your invoice](https://makeinvoicefree.in)
+👉 <a href="https://makeinvoicefree.in" target="_blank" rel="dofollow noopener">Click here to create your invoice</a>
 
 Why Use MakeInvoiceFree.in?
 Making professional invoices shouldn't be complicated. Our online tool simplifies the process and helps you save time with pre-built invoice templates. Whether you're billing a client or creating a GST-compliant invoice, we’ve got you covered.
 
 Try the free invoice maker now:**  
-🌐 [https://makeinvoicefree.in](https://makeinvoicefree.in)
+🌐 <a href="https://makeinvoicefree.in" target="_blank" rel="dofollow noopener">Click here to create your invoice</a>
 
 `#InvoiceGenerator` `#FreeBillingSoftware` `#GSTInvoice` `#OnlineInvoiceMaker` `#FreeInvoiceGenerator`
