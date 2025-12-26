@@ -3,7 +3,7 @@ Create free invoices online with GST – No signup required
 
 Free Invoice Generator - MakeInvoiceFree.in
 
-Welcome to the official repository of **[MakeInvoiceFree.in](https://makeinvoicefree.in)** – a 100% free and fast **invoice generator** for freelancers, startups, and small businesses in India.
+Welcome to the official repository of **<a href="https://makeinvoicefree.in" target="_blank" rel="dofollow noopener">Click here to create your invoice</a>** – a 100% free and fast **invoice generator** for freelancers, startups, and small businesses in India.
 
 Key Features
 - GST-enabled invoice templates
